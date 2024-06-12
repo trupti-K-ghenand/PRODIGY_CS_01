@@ -2,7 +2,9 @@
 ## 🛡️ Caesar Cipher Encryption and Decryption Tool
 
 ## 📜 Overview
-This project implements a simple Caesar Cipher encryption and decryption tool using Python. The Caesar Cipher is a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down the alphabet. This tool allows users to input a message and two shift values (keys) to perform encryption and decryption.
+This program implements a simple Caesar Cipher encryption and decryption tool using Python. The Caesar Cipher is a type of substitution cipher 
+in which each letter in the plaintext is shifted a certain number of places down the alphabet. 
+This tool allows users to input a message and two shift values (keys) to perform encryption and decryption.
 
 ## 📚 Theoretical Explanation
 
@@ -10,10 +12,10 @@ This project implements a simple Caesar Cipher encryption and decryption tool us
 The Caesar Cipher is one of the earliest known and simplest ciphers. It is a type of substitution cipher where each letter in the plaintext is shifted a fixed number of positions down or up the alphabet. For example, with a shift of 1, 'A' would be replaced by 'B', 'B' would become 'C', and so on.
 
 ### 🛡️ Cybersecurity Concepts
--Encryption🔒: The process of converting plaintext into ciphertext to protect information from unauthorized access.
--Decryption🔓: The process of converting ciphertext back into plaintext.
--Cipher🧩: An algorithm for performing encryption and decryption.
--Key🗝️: A piece of information that determines the functional output of the cryptographic algorithm. In this case, the shift value.
+- Encryption🔒: The process of converting plaintext into ciphertext to protect information from unauthorized access.
+- Decryption🔓: The process of converting ciphertext back into plaintext.
+- Cipher🧩: An algorithm for performing encryption and decryption.
+- Key🗝️: A piece of information that determines the functional output of the cryptographic algorithm. In this case, the shift value.
 
 ## 📝 Prerequisites
 - Basic understanding of Python programming.

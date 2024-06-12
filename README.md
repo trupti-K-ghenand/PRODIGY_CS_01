@@ -79,10 +79,10 @@ Thank you for using and contributing to this repository! I sincerely appreciate 
 Welcome all contributions to enhance these programs and expand their capabilities.
 
 To contribute:
-1.Fork the repository.
-2.Create a new branch for your feature or bugfix.
-3.Commit your changes and push them to your branch.
-4.Open a pull request describing your changes.
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes and push them to your branch.
+4. Open a pull request describing your changes.
 ✅Please ensure your code adheres to the existing style and includes appropriate documentation and tests.
 
 

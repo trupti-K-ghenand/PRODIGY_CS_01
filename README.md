@@ -1,5 +1,5 @@
 # PRODIGY_CS_01
-## 🛡️ Caesar Cipher Encryption and Decryption Tool
+## 🛡️ Caesar Cipher Encryption and Decryption 
 
 ## 📜 Overview
 This program implements a simple Caesar Cipher encryption and decryption tool using Python. The Caesar Cipher is a type of substitution cipher 
@@ -34,8 +34,8 @@ The Caesar Cipher is one of the earliest known and simplest ciphers. It is a typ
 ## 🚀Steps to Execute the Program
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/trupti-K-ghenand/PRODIGY_CS_01.git
-   cd caesar-cipher-encryption-tool
+   git clone <repository-directory> (https://github.com/trupti-K-ghenand/PRODIGY_CS_01)
+   cd <repository-directory>
    ```
 
  2.**Run the Program:**

@@ -74,7 +74,7 @@ This program provides an enhanced implementation of the Caesar Cipher that suppo
     - The decrypted text (which should match the original input) is printed to verify the correctness of the encryption and decryption process.
 
 ## Thanks👏
-Thank you for using and contributing to this repository! I sincerely appreciate your interest and hope you find the Caesar Cipher programs helpful for your cryptography learning journey.
+Thank you for using and contributing to this repository! I sincerely appreciate your interest and hope you find the Caesar Cipher program helpful for your cryptography learning journey.
 
 ## Contribute🤝
 Welcome all contributions to enhance these programs and expand their capabilities.
